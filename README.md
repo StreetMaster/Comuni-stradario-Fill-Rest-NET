@@ -3,8 +3,10 @@ Demo .NET per l'utilizzo del ws soap FILL di verifica e normalizzazione indirizz
 
 Il progetto è sviluppato in C# - Framework 4.6.1
 
+Il protocollo di comunicazione e' in formato JSON e viene utilizzata la libreria opensource RestSharp (http://restsharp.org/)
+
 End point del servizio 
-     http://ec2-46-137-97-173.eu-west-1.compute.amazonaws.com/smws/fill?wsdl
+     http://ec2-46-137-97-173.eu-west-1.compute.amazonaws.com/smrest/fill
 
 Per l'utilizzo registrarsi sul sito http://streetmaster.it e richiedere la chiave per il servizio FILL.
 Il servizio permette di effettuare in maniera gratuita 250 chiamate mensili. 
