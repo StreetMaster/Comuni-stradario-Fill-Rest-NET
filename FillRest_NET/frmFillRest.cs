@@ -42,7 +42,7 @@ namespace FillRest_NET
             Application.DoEvents();
 
 
-            // inizializzazione client del servizio VERIFY
+            // inizializzazione client del servizio FILL
             var clientFill = new RestSharp.RestClient();
             clientFill.BaseUrl = new Uri("http://ec2-46-137-97-173.eu-west-1.compute.amazonaws.com");
 
