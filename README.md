@@ -1,6 +1,6 @@
-# Webservice di verifica e correzione dei comuni e indirizzi italiani
+# Comuni italiani e stradario. Webservice di verifica e correzione.
 ## Demo Fill Rest .NET
-Demo .NET per l'utilizzo del ws soap FILL di verifica e correzioni degli indirizzi italiani. Il servizio è gratutio per 250 chiamate mensili. 
+Comuni italiani e stradario. Demo .NET per l'utilizzo del ws soap FILL di verifica e correzione. Il servizio è gratutio per 250 chiamate mensili. 
 
 ### Ambiente di sviluppo:
   - C#
