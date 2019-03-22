@@ -5,7 +5,7 @@ Comuni italiani e stradario. Soluzione .NET per l'utilizzo del ws soap FILL di v
 ### Ambiente di sviluppo:
   - C#
   - Framework 4.6.1
-  - Visual Studio Professional 2015 SP2
+  - Visual Studio Professional 2017
 
 ### Endpoint
 ```
